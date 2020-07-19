@@ -1,4 +1,13 @@
-### Hi there 👋
+# Mohsin Shaikh 👋
+
+- 🔭 I’m currently working on [Vault](https://github.com/mohsin-shaikh/vault) based on [React Native](https://github.com/facebook/react-native)
+- 🌱 I’m currently learning [UI Path](https://www.uipath.com/)
+- 👯 I’m looking to collaborate on [php](https://www.php.net/), html, css, javascript, nodejs and python etc...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Something I really, really want.
+- 📫 How to reach me: mohsinshaikh78601@gmail.com
+- 😄 Pronouns: mo.see.n
+- ⚡ Fun fact: I love coding 😍
 
 <!--
 **mohsin-shaikh/mohsin-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
