@@ -1,6 +1,6 @@
 # Mohsin Shaikh 👋
 
-- 🔭 I’m currently working on [Vault](https://github.com/mohsin-shaikh/vault) based on [React Native](https://github.com/facebook/react-native)
+- 🔭 I’m currently working on [Vault](https://github.com/mohsin-shaikh/vault) for Android & iOS based on [React Native](https://github.com/facebook/react-native)
 - 🌱 I’m currently learning [UI Path](https://www.uipath.com/)
 - 👯 I’m looking to collaborate on [php](https://www.php.net/), html, css, javascript, nodejs and python etc...
 - 🤔 I’m looking for help with ...
