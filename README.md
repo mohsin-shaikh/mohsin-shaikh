@@ -9,7 +9,7 @@
 - 💬 Ask me about Something I really, really want.
 - 📫 How to reach me: mohsinshaikh78601@gmail.com
 - 😄 Pronouns: mo.see.n
-- ⚡ Fun fact: I love play PUBG 😍
+- ⚡ Fun fact: I love to play PUBG 😍
 
 ### Connect with me:
 
