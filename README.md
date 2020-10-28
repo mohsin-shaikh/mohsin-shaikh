@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Vault](https://github.com/mohsin-shaikh/vault) for Android & iOS based on [React Native](https://github.com/facebook/react-native)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [php](https://www.php.net/), html, css, javascript, nodejs and python etc...
+- 👯 I’m looking to collaborate on [php](https://www.php.net/), javascript, nodejs and python etc...
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Something I really, really want.
 - 📫 How to reach me: mohsinshaikh78601@gmail.com
