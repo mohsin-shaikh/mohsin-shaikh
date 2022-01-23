@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Something I really, really want.
 - 📫 How to reach me: mohsinshaikh78601@gmail.com
-- 😄 Pronouns: moh.sin.
+- 😄 Pronouns: mo.sin.
 - ⚡ Fun fact: I love to play PUBG 😍
 
 ### Connect with me:
