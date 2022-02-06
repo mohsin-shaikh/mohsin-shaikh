@@ -2,14 +2,12 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for Android & iOS based on [Filament Admin](https://github.com/laravel-filament/filament)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [php](https://www.php.net/), javascript, nodejs and python etc...
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Something I really, really want.
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for Web based on [Filament Admin](https://github.com/laravel-filament/filament)
+- 👯 I’m looking to collaborate on [php](https://www.php.net/), javascript and python.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: mohsinshaikh78601@gmail.com
 - 😄 Pronouns: mo.sin.
-- ⚡ Fun fact: I love to play PUBG 😍
+- ⚡ Fun fact: I love to Code 😍
 
 ### Connect with me:
 
