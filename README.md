@@ -1,4 +1,4 @@
-### Hi there, I'm Mohsin Shaikh - [ZUUPEE Technologies][website] 👋
+### Hi there, I'm Mohsin Shaikh - [ZUUPEE Tech][website] 👋
 
 ## I'm a Developer!
 
