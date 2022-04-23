@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/mohsin-shaikh?logo=github&style=for
 
 ---
 
-<img align="left" alt="Mohsin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohsin-shaikh&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Mohsin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohsin-shaikh&show_icons=true&hide_border=true" /> -->
 
 [website]: https://zuupee.com
 [twitter]: https://twitter.com/mohsin_shaikh_z/
