@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for Web based on [Filament Admin](https://github.com/laravel-filament/filament)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for Web, based on [Filament Admin](https://github.com/laravel-filament/filament) and also working on side project which is based on [ReactFlow](https://reactflow.dev) 
 - 👯 I’m looking to collaborate on [php](https://www.php.net/), javascript and python.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: mohsinshaikh78601@gmail.com
