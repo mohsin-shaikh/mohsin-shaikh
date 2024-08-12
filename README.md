@@ -1,13 +1,13 @@
 ### Hi there, I'm Mohsin Shaikh - [ZUUPEE Tech][website] 👋
 
-## I'm a Developer!
+## Passionate Developer and Open Source Enthusiast
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for Web, based on [Filament Admin](https://github.com/laravel-filament/filament) and also working on side project which is based on [ReactFlow](https://reactflow.dev) 
-- 👯 I’m looking to collaborate on [php](https://www.php.net/), javascript and python.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: mohsinshaikh78601@gmail.com
-- 😄 Pronouns: mo.sin.
-- ⚡ Fun fact: I love to Code 😍
+- 🔭 Currently building an [Expense Tracker](https://github.com/mohsin-shaikh/expense-tracker) for the web using [Filament Admin](https://github.com/laravel-filament/filament). Also working on a side project featuring [ReactFlow](https://reactflow.dev).
+- 👯 Open to collaboration on projects involving PHP, JavaScript, and Python.
+- 🥅 2024 Goals: Make meaningful contributions to Open Source projects.
+- 📫 Reach me at: mohsinshaikh78601@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Coding is my happy place! 😍
 
 <!-- ### Connect with me:
 
